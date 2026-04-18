@@ -1,0 +1,6 @@
+
+**A.12** **Standard Elliptical Pipe Sizes **
+
+**Code ** **Minor Axis (in) ** **Major Axis (in) ** **Minor Axis (mm) ** **Major Axis (mm) **
+
+**1 ** 14 23 356 584 **2 ** 19 30 483 762 **3 ** 22 34 559 864 **4 ** 24 38 610 965 **5 ** 27 42 686 1067 **6 ** 29 45 737 1143 **7 ** 32 49 813 1245 **8 ** 34 53 864 1346 **9 ** 38 60 965 1524 **10 ** 43 68 1092 1727 **11 ** 48 76 1219 1930 **12 ** 53 83 1346 2108 **13 ** 58 91 1473 2311 **14 ** 63 98 1600 2489 **15 ** 68 106 1727 2692 **16 ** 72 113 1829 2870 **17 ** 77 121 1956 3073 **18 ** 82 128 2083 3251 **19 ** 87 136 2210 3454 **20 ** 92 143 2337 3632 **21 ** 97 151 2464 3835 **22 ** 106 166 2692 4216 **23 ** 116 180 2946 4572 Note: The Minor Axis is the maximum width for a vertical ellipse and the full depth for a horizontal ellipse while the Major Axis is the maximum width for a horizontal ellipse and the full depth for a vertical ellipse. Source: *Concrete Pipe Design Manual*, American Concrete Pipe Association, 2011 (www.concrete-pipe.org).
